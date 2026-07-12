@@ -1,0 +1,7 @@
+
+# Symlinks to external data (not portable)
+data/mvtec
+
+# Bytecode (belt-and-braces, in case the pattern above misses)
+**/__pycache__/
+*.pyc
